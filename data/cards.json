@@ -1,0 +1,34 @@
+    [
+    {
+    "image": "cardfaces/bolt.jpeg",
+    "name": "bolt"
+    },
+    {
+    "image": "cardfaces/cookie.jpeg",
+    "name": "cookie"
+    },
+    {
+    "image": "cardfaces/err.jpeg",
+    "name": "err"
+    },
+    {
+    "image": "cardfaces/game.jpeg",
+    "name": "game"
+    },
+    {
+    "image": "cardfaces/heart.jpeg",
+    "name": "heart"
+    },
+    {
+    "image": "cardfaces/party.jpeg",
+    "name": "party"
+    },
+    {
+    "image": "cardfaces/poo.jpeg",
+    "name": "poo"
+    },
+    {
+    "image": "cardfaces/snake.jpeg",
+    "name": "snake"
+    }
+    ]
